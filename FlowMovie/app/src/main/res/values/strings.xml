@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flow-Movie</string>
+
+    <string name="text_search">검색</string>
+    <string name="text_recent_search">최근검색</string>
+    <string name="text_movie_title">제목 : %s</string>
+    <string name="text_movie_date">출시 : %s</string>
+    <string name="text_movie_user_rating">평점 : %s</string>
+    <string name="text_search_history">최근 검색 이력</string>
+</resources>
